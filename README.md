@@ -1,6 +1,6 @@
 # PersonalityClassification - Semantic Web Mining Academic Project
 Every individual of the modern generation often uses the social media and the likes of the users play a prime role in defining the user personality. 
-The Data on the social networking platforms help in analyzing individual users personality and find meaningful insights 
+The data on the social networking platforms help in analyzing individual users personality and find meaningful insights 
 Our motive is to use supervised and unsupervised ML techniques to predict a user’s personality based on age, gender, political views and pages liked 
 The five components used to identify an individual’s personality are the OCEAN attributes.
 
